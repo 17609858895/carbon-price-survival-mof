@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+work/data_raw/
+work/data_processed/
+work/results/
+work/qa_*/
+work/figures/Fig*/
+*.joblib
+*.npz
+*.parquet
